@@ -1,1 +1,1 @@
-GOT TRANSLATOR!
+Stock Checker!
